@@ -1,5 +1,6 @@
 {
     "name": "Robot Penjaga Air Tanaman Ayah - Copy",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
